@@ -15,7 +15,7 @@ from discord.ext import commands, tasks
 
 bn = commands.Bot(command_prefix="-")
 gr = gmail_reader.gmail_reader("brightspacenotifs@gmail.com", "EECS2020", "Inbox")
-token = "NzYwMzA2MDYyNDM1Mjg3MDQw.X3KIMw.1GwtDa4XsXB668lYXl-NvSmjwyU"
+token = "NzYwMzA2MDYyNDM1Mjg3MDQw.X3KIMw.gazV3KLA2q0f2ENhHLMKGy1dYMY"
 thread = None
 
 h = helper()
